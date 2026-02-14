@@ -1,0 +1,19 @@
+The following servers are up on 02/14/26
+
+Pinging google.com [142.250.205.78] with 32 bytes of data:
+Reply from 142.250.205.78: bytes=32 time=14ms TTL=113
+
+Ping statistics for 142.250.205.78:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 14ms, Average = 14ms
+Server up: google.com
+
+Pinging github.com [20.207.73.82] with 32 bytes of data:
+Reply from 20.207.73.82: bytes=32 time=30ms TTL=114
+
+Ping statistics for 20.207.73.82:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 30ms, Average = 30ms
+Server up: github.com
